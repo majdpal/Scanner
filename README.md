@@ -63,4 +63,4 @@ IDENTIFIER            fact
 COMMENT       { output factorial of x }
 END                    end
 ```
-![Uploading Example1 scanner.jpeg…]()
+
