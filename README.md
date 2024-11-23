@@ -64,3 +64,4 @@ COMMENT       { output factorial of x }
 END                    end
 ```
 
+![example 1 scanner](images/Example1%20scanner.jpeg)
